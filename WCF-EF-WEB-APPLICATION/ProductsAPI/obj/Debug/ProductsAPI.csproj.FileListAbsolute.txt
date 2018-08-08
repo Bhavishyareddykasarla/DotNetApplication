@@ -1,0 +1,8 @@
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\bin\ProductsAPI.dll.config
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\bin\ProductsAPI.dll
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\bin\ProductsAPI.pdb
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\obj\Debug\ProductsAPI.csprojResolveAssemblyReference.cache
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\obj\Debug\ProductsAPI.dll
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\obj\Debug\ProductsAPI.pdb
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\bin\EntityFramework.dll
+c:\users\narender\documents\visual studio 2017\Projects\WCF-EF-WEB-APPLICATION\ProductsAPI\bin\EntityFramework.xml
